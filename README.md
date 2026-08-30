@@ -2,7 +2,7 @@
 
 I'm transitioning from chemistry research into Cloud & DevOps engineering, combining a research mindset with hands-on experience in infrastructure automation, containers, CI/CD, and AWS.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Cloud**  
 AWS — EC2, VPC, IAM, S3, CloudFront, RDS, ECR, ALB, CloudWatch
@@ -27,9 +27,9 @@ CloudWatch · structured logging · secrets management · Trivy · Checkov
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏗️ AWS 3-Tier Architecture
+### AWS 3-Tier Architecture
 
 Production-style three-tier AWS architecture designed around network isolation, scalability, and secure communication between application layers.
 
@@ -44,7 +44,7 @@ Production-style three-tier AWS architecture designed around network isolation, 
 
 ---
 
-### 🚀 AutoDeploy
+### AutoDeploy
 
 A Kubernetes-based deployment platform built to explore and automate modern application delivery.
 
@@ -59,7 +59,7 @@ A Kubernetes-based deployment platform built to explore and automate modern appl
 
 ---
 
-### ☁️ AWS Static Website Infrastructure
+### AWS Static Website Infrastructure
 
 Secure and automated static website infrastructure built on AWS with Terraform and CI/CD.
 
@@ -74,15 +74,15 @@ Secure and automated static website infrastructure built on AWS with Terraform a
 
 ---
 
-## 📜 Certification
+## Certification
 
-**AWS Certified [CERTIFICATION_NAME]**
+**AWS Certified [AWS Certified Solutions Architect – Associate]**
 
 [View Credential](https://www.credly.com/badges/4131f9b7-71ee-4adf-9d4e-4754e9d3b649/public_url)
 
 ---
 
-## 🎯 Currently Focused On
+## Currently Focused On
 
 - AWS architecture and cloud infrastructure
 - Terraform and Infrastructure as Code
@@ -91,6 +91,6 @@ Secure and automated static website infrastructure built on AWS with Terraform a
 
 ---
 
-## 🔗 Connect
+## Connect
 
 [Portfolio](https://app.infractl.dev)
