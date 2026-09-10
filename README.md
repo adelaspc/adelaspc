@@ -1,7 +1,5 @@
 # Hi, I'm Adela 👋
 
-# Hi, I'm Adela 👋
-
 **Chemistry Researcher ➔ Cloud & DevOps Engineer**  
 Combining an analytical research mindset with hands-on expertise in cloud infrastructure, containerization, and automation.
 
