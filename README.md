@@ -37,7 +37,7 @@ Combining an analytical research mindset with hands-on expertise in cloud infras
 
 ### AWS 3-Tier Architecture
 
-> Production-style three-tier AWS architecture designed around network isolation, scalability, and secure communication between application layers.
+> Three-tier AWS architecture designed around network isolation, scalability, and secure communication between application layers.
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github)](https://github.com/adelaspc/aws-3tier-architecture.git)
 [![Live Case Study](https://img.shields.io/badge/Case_Study-Live_Overview-2ea44f?style=flat&logo=googlechrome&logoColor=white)](https://app.infractl.dev/aws-3tier-architecture.html)
